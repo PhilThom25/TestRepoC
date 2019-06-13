@@ -1,8 +1,6 @@
 #Story 7
 Feature: Living documentation is updated when the Git branch is updated
-
-#Story 7
-In order to keep connection alive between repository and a living documentation
+  In order to keep connection alive between repository and a living documentation
   I can get update the living documentation when modification have been make in a Git repository
 
   Background:
